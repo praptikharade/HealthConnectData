@@ -1,2 +1,3 @@
 # HealthConnectData
-The Java code facilitates CRUD operations in a healthcare database, emphasizing INSERT functionality. It utilizes prepared statements, a menu-driven interface, and exception handling for robustness. Additionally, it enables targeted record deletions across various tables, enhancing data management flexibility.
+Developed a healthcare database management system in Java using JDBC for database connectivity, implementing CRUD operations (insert, update, delete, display) with prepared statements and robust exception handling.                                                                                                                                       
+Enhanced data management flexibility and system efficiency by implementing targeted deletion functionalities across multiple tables and optimizing overall CRUD operations.
